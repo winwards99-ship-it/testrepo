@@ -1,1 +1,2 @@
 this is my first repo# testrepo
+edicated to mastering the Data Science stack. I'm building strong expertise in Python for predictive modeling and implementing Machine Learning (ML) algorithms. I use Power BI to deliver high-impact Data Visualization and Business Intelligence. Focusing on the practical application of AI basics to solve real-world problems. Seeking roles where technical curiosity meets business value. 
