@@ -1,0 +1,8 @@
+Tuba Gardazi This exercise reflects my growing passion for problem-solving with Python and building clean, structured solutions. Every line of code is a step forward in sharpening my programming journey. 💻🐍
+
+🔹 Skills Highlighted:
+✔️ Python programming
+✔️ Conditional logic (match-case)
+✔️ Writing clean & readable code
+
+👉 Excited to keep exploring more advanced Python concepts and applying them in real-world projects!
